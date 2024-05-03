@@ -1,6 +1,3 @@
-Certainly! Here's the updated read-me with the future plans section added:
-
----
 
 # Simple Flutter College Project
 
